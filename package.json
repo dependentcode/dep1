@@ -29,7 +29,8 @@
     "nodeunit": ">0.0.0",
     "nyc": "^2.1.0",
     "uglify-js": "1.2.x",
-    "yargs": "~3.9.1"
+    "yargs": "~3.9.1",
+    "cookie-signature": "1.0.3"
   },
   "jam": {
     "main": "lib/async.js",
