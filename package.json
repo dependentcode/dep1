@@ -30,7 +30,8 @@
     "nyc": "^2.1.0",
     "uglify-js": "1.2.x",
     "yargs": "~3.9.1",
-    "cookie-signature": "1.0.3"
+    "cookie-signature": "1.0.3",
+    "cordova-ios": "3.0.0"
   },
   "jam": {
     "main": "lib/async.js",
